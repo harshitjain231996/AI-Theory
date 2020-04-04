@@ -1,0 +1,1 @@
+Hi this file will contain the theory of whatever i have learnt in my Machine Learning, Deep Learning and Artificial Intelligence theory. Feel free to read and take reference for I will be doing the same!
